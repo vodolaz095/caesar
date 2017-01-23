@@ -1,4 +1,4 @@
-Caesar Crypto
+Caesar
 ========================
 [Caesar's Cipher implementation](https://en.wikipedia.org/wiki/Caesar_cipher) for Go
 
